@@ -1,0 +1,9 @@
+{ 
+	"plugins": [
+	    "disqus"
+	    ],
+    "pluginsConfig": {
+        "shortName": "cici1989"
+    }
+
+}
