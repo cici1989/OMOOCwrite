@@ -34,6 +34,7 @@
   * [作业 009：](./source/part2/10.md)
   * [作业 010：](./source/part2/11.md)
   * [作业 011：](./source/part2/12.md)
+  * [作业 012：](./source/part2/13.md)
 * [互助组](./source/part3/introduction.md)
   * [小组小报](./source/part3/1.md)
   * [](./source/part3/2.md)
