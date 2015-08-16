@@ -23,7 +23,7 @@
   
 * [学习过程](./source/part2/introduction.md)
   * [作业 000：公众号分组](./source/part2/1.md)
-  * [作业 001：](./source/part2/2.md)
+  * [作业 001：GEB 导读](./source/part2/2.md)
   * [作业 002：](./source/part2/3.md)
   * [作业 003：](./source/part2/4.md)
   * [作业 004：](./source/part2/5.md)
